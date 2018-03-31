@@ -1,9 +1,9 @@
-# JSDF*image*getter
+# JSDF-image-getter
 
 ## 説明
 
 * 海上自衛隊と陸上自衛隊の公開している画像をダウンロードしてきます
-* 名前の通りNavy=>海自、airforce=>空自の画像をダウンロードできます
+* 名前の通りNavy->海自、airforce->空自の画像をダウンロードできます
 
 ## 対応表
 
@@ -37,8 +37,8 @@ python ver3.6
 
 ## 参照ページ
 
-![海上自衛隊のHP](http://www.mod.go.jp/msdf/index.html)  
-![海上自衛隊の番号確認できるところ](http://www.mod.go.jp/msdf/formal/gallery/ships/dd/index.html)  
-![航空自衛隊のHP](http://www.mod.go.jp/asdf/)  
+[海上自衛隊のHP](http://www.mod.go.jp/msdf/index.html)  
+[海上自衛隊のstart num番号確認できるところ](http://www.mod.go.jp/msdf/formal/gallery/ships/dd/index.html)  
+[航空自衛隊のHP](http://www.mod.go.jp/asdf/)  
 
 壁紙とかもHPで配布してるのでHP覗いてみてはいかがでしょうか
